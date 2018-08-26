@@ -5,7 +5,7 @@ Would you like to use [Alfred](https://www.alfredapp.com/) for MacOS to quickly 
 Well, this Workflow will allow just that, and will improve your productivity as you
 can just use your hotkey for [Alfred](https://www.alfredapp.com/) and quick look at the Nova docs.
 
-![Screenshot](workflow.screenshot.png)
+![Screenshot](workflow-screenshot.png)
 
 ## Installation
 
