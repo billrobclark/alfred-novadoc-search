@@ -102,8 +102,8 @@
 
 ## Usage
 
-php &lt;query&gt;
-php array_unique
+nova &lt;query&gt;
+nova resource
 
 Either press `⌘Y` to Quick Look the result, or you can press enter to open it in your default web browser.</string>
 	<key>uidata</key>
