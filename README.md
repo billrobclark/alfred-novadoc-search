@@ -9,7 +9,7 @@ can just use your hotkey for [Alfred](https://www.alfredapp.com/) and quick look
 
 ## Installation
 
-1. [Download the latest version](https://github.com/billrobclark/alfred-novadoc-search/releases/download/v1.0/Nova.Docs.alfredworkflow)
+1. [Download the latest version](https://github.com/billrobclark/alfred-novadoc-search/releases/download/v1.0.1/Nova.Docs.alfredworkflow)
 2. Install the workflow by double-clicking and opening the `.alfredworkflow` file that you just downloaded.
 3. You can add the workflow to a category, then click "Import" to finish importing.
 4. You'll now see the workflow listed there on the left sidebar of your Alfred Workflows preferences.

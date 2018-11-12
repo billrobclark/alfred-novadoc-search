@@ -123,11 +123,6 @@ Either press `⌘Y` to Quick Look the result, or you can press enter to open it 
 			<integer>90</integer>
 		</dict>
 	</dict>
-	<key>variables</key>
-	<dict>
-		<key>branch</key>
-		<string>master</string>
-	</dict>
 	<key>version</key>
 	<string>1.0.1</string>
 	<key>webaddress</key>

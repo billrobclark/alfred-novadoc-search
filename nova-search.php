@@ -22,7 +22,8 @@ foreach ($results as $hit) {
         ->uid($hit['objectID'])
         ->title($title)
         ->autocomplete($title)
-        ->arg($hit ['url'])
+        ->subtitle($hit['subtext'])
+        ->arg($hit['url'])
         ->quicklookurl($hit['url'])
         ->valid(true);
 }
